@@ -11,7 +11,7 @@ psutil package:
 <BR>
 
 ```python
-$ pip install psutil
+pip install psutil
 ```
 <BR>
 lm-sensors:
